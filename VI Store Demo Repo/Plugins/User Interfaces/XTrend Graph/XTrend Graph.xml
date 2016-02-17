@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Lib">
+		<Title>XTrend Graph</Title>
+		<Description>A modified graph that allows you to visualize the trend of the data plotted in the graph.</Description>
+		<Owner>Eric M</Owner>
+		<Version>1.0</Version>
+		<Run>Source\XTrend.xctl</Run>
+		<Logo>chart.png</Logo>
+		<Preview>Trend.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

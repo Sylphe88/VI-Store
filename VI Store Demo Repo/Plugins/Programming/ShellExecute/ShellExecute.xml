@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>ShellExecute</Title>
+		<Description>An example of how to use the ShellExecute function from shell32.dll to open or launch files.</Description>
+		<Owner>NI Community</Owner>
+		<Version>1.2</Version>
+		<Run>Launch_File.vi</Run>
+		<Logo>console_icon.png</Logo>
+		<Preview>Prompt.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

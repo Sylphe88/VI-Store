@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Gmail</Title>
+		<Description>A quick example of how to send an email using a Gmail account in LabVIEW.</Description>
+		<Owner>NI Community</Owner>
+		<Version>2.0</Version>
+		<Run>Example.vi</Run>
+		<Logo>gmail_icon.png</Logo>
+		<Preview>Gmail_Pre.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

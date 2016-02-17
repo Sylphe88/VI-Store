@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="exe">
+		<Title>Modes de Connexions</Title>
+		<Description> </Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Modes de connexions DAQ.exe</Run>
+		<Logo>ModeConn.png</Logo>
+		<Preview>ModeConnexions.png</Preview>
+		<SortPriority>200</SortPriority>
+</Instrument>

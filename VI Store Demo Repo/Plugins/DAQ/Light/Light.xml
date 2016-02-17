@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>Light</Title>
+		<Description>-Acquérir un signal lumineux à l'aide de NI-DAQmx
+-Modifier l'exemple pour mettre les données à l'échelle et mesurer la lumière ambiante dans le boîtier de démonstration Mesures</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Light Sensor Project.lvproj</Run>
+		<Logo>lp.png</Logo>
+		<Preview>lamp.png</Preview>
+		<SortPriority>200</SortPriority>
+</Instrument>

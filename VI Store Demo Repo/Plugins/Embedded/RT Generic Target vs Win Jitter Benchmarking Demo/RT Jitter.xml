@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>RT Jitter</Title>
+		<Description>This demo utilizes any real-time hardware and LabVIEW Real-Time to demo the pronounced reduction of jitter running the same application on a real-time target in comparison to a general purpose Windows OS. </Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>RT vs Win Jitter Benchmark Demo.lvproj</Run>
+		<Logo>benchmark.png</Logo>
+		<Preview>RT Benchmark.png</Preview>
+		<SortPriority>10</SortPriority>
+</Instrument>

@@ -1,0 +1,8 @@
+-Écrire un programme pour contrôler la vitesse d’un ventilateur et acquérir des données d’un accéléromètre fixé au ventilateur
+-Ajouter du code pour analyser le signal vibratoire avec LabVIEW et MathScript
+-Se familiariser avec les concepts-clés suivants :
+o Mesures d’accéléromètre
+o Utiliser l’API NI-DAQmx
+o Utiliser les sous-VIs
+o Combiner les tâches de contrôle et de mesure
+o Traiter des données avec LabVIEW et MathScript

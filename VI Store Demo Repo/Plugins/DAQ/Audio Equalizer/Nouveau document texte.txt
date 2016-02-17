@@ -1,0 +1,2 @@
+-Acquérir en continu 40 000 échantillons de données par secondes à partir de la source audio connectée au module NI 9215 (ou toute entrée analogique similaire)
+-Ajouter une fonctionnalité d’enregistrement de données à la tâche DAQmx

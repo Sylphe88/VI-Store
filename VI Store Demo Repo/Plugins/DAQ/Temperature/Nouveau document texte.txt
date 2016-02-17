@@ -1,0 +1,2 @@
+Acquérir rapidement un ensemble de données de température à l'aide de l'Assistant DAQ
+Analyser ces données et générer un signal d'avertissement numérique dès que la température dépasse un niveau d'alerte modulable

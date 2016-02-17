@@ -1,0 +1,8 @@
+-Développer un programme pour acquérir des données à partir d’une jauge de déformation dans une configuration en quart de pont
+-Ajouter du code pour indiquer à l’utilisateur la déformation approximative par le biais d’indicateurs LED
+-Se familiariser avec les notions suivantes :
+o Mesure de déformation
+o Utiliser l’API NI-DAQmx
+o Utiliser des sous-VIs
+o Combiner des tâches de contrôle et de mesure
+o Écrire dans un fichier quand un événement se produit

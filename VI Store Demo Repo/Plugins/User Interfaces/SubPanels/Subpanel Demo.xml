@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Subpanel Demo</Title>
+		<Description>Subpanels are an underrated UI element in LabVIEW. It is actually very powerful and helps user design application with a better UI rendering and less coupling in the code.
+		Subpanel are like a front panel nested inside another front panel. It allows user to view different VIs in the same view and dynamically call VIs so that the performance is overall better. Think of subpanel as a web page where the body of your web page is the content of the subpanel!</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Source\SubPanel Main.vi</Run>
+		<Logo>panel.png</Logo>
+		<Preview>Subpanel_Preview.png</Preview>
+		<SortPriority>50</SortPriority>
+</Instrument>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>State Machine</Title>
+		<Description>The state machine is the most basic yet one of the most powerful design patterns. It is widely used in any language and enable programmers to writing flexible and maintainable code.
+		Here is how to implement a state machine in LabVIEW</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Source\State Machine.lvproj</Run>
+		<Logo>StateMachine.png</Logo>
+		<Preview>SM.png</Preview>
+		<SortPriority>10</SortPriority>
+</Instrument>

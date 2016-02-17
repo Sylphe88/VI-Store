@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>Vibration</Title>
+		<Description>-Écrire un programme pour contrôler la vitesse d'un ventilateur et acquérir des données d'un accéléromètre fixé au ventilateur
+-Ajouter du code pour analyser le signal vibratoire avec LabVIEW et MathScript
+-Se familiariser avec les concepts-clés suivants :
+o Mesures d'accéléromètre
+o Utiliser l'API NI-DAQmx
+o Utiliser les sous-VIs
+o Combiner les tâches de contrôle et de mesure
+o Traiter des données avec LabVIEW et MathScript</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Vibration Exploration.lvproj</Run>
+		<Logo>vib.png</Logo>
+		<Preview>vibration.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

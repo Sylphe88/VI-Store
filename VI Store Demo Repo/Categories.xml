@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Store>
+<Category>
+		<Title>Design Patterns</Title>
+		<Description>Demonstrating the common design patterns in LabVIEW</Description>
+		<BaseDir>Plugins\Design Patterns</BaseDir>
+		<Icon Type="png">Resource\Design Patterns.png</Icon>
+		<SortPriority>10</SortPriority>
+	</Category>
+	<Category>
+		<Title>Programming</Title>
+		<Description>Programming tools, examples and libraries to leverage LabVIEW programming possibilities</Description>
+		<BaseDir>Plugins\Programming</BaseDir>
+		<Icon Type="png">Resource\Programming.png</Icon>
+		<SortPriority>50</SortPriority>
+	</Category>
+	<Category>
+		<Title>User Interface</Title>
+		<Description>Controls, XControls and code that helps design elegant or fancy user interfaces in LabVIEW.</Description>
+		<BaseDir>Plugins\User Interfaces</BaseDir>
+		<Icon Type="png">Resource\UI.png</Icon>
+		<SortPriority>200</SortPriority>
+	</Category>
+	<Category>
+		<Title>Network</Title>
+		<Description>Networking and Communication examples and projects.</Description>
+		<BaseDir>Plugins\Networking</BaseDir>
+		<Icon Type="png">Resource\Network.png</Icon>
+		<SortPriority>500</SortPriority>
+	</Category>
+	<Category>
+		<Title>DAQ</Title>
+		<Description>Data Acquisition</Description>
+		<BaseDir>Plugins\DAQ</BaseDir>
+		<Icon Type="png">Resource\DAQ.png</Icon>
+		<SortPriority>2000</SortPriority>
+	</Category>
+	<Category>
+		<Title>Embedded</Title>
+		<Description>Embedded Demos, showing Real-Time and FPGA concepts on our RIO platform.</Description>
+		<BaseDir>Plugins\Embedded</BaseDir>
+		<Icon Type="png">Resource\Embedded.png</Icon>
+		<SortPriority>3000</SortPriority>
+	</Category>
+</Store>

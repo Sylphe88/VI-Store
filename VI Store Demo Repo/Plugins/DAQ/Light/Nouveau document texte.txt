@@ -1,0 +1,2 @@
+-Acquérir un signal lumineux à l'aide de NI-DAQmx
+-Modifier l'exemple pour mettre les données à l'échelle et mesurer la lumière ambiante dans le boîtier de démonstration Mesures

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Keyboard Navigation</Title>
+		<Description>Demo of how to assign keyboard shortcuts to controls. For example, you can easily navigate between several boolean buttons using Tab and assigned Function touches.</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Keyboard Navigation.vi</Run>
+		<Logo>Keyboard_logo.png</Logo>
+		<Preview>Keyboard.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

@@ -1,0 +1,7 @@
+% Calculate data parameters
+n = length(Y); 
+df=1/(dt*n);
+% Calculate power spectrum
+fftm = fft(Y);
+freq =real( (2/(n^2))*(fftm).*conj(fftm));
+freq=freq(1,1:(n/2));

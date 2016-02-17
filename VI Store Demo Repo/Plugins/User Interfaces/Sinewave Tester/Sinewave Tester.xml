@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>Sinewave Pro App</Title>
+		<Description>This project shows how to implement several user interface concepts in LabVIEW.
+		Using panels, splitter, resizing, customized menus and sober colors help the final user having a better UX (User Experience). Leaving many punctual features (such as settings) in dialog boxes and menus also contributes to having a clean layout.</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Source\Sinewave Tester.lvproj</Run>
+		<Logo>sinewave.png</Logo>
+		<Preview>Sinewave Tester.png</Preview>
+		<SortPriority>10</SortPriority>
+</Instrument>

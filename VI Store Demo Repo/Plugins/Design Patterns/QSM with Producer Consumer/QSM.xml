@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>QSM Example</Title>
+		<Description>An example of how a Queued State Machine works. This design uses queues to send data to and receive data from other loops.
+		These loops may or may not be in the same VI, as queues are named.</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>QSM-PC Example.vi</Run>
+		<Logo>QSM Logo.png</Logo>
+		<Preview>QSM Preview.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

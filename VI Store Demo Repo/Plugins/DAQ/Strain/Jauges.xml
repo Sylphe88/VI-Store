@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>Jauges de Contrainte</Title>
+		<Description>-Développer un programme pour acquérir des données à partir d'une jauge de déformation dans une configuration en quart de pont
+-Ajouter du code pour indiquer à l'utilisateur la déformation approximative par le biais d'indicateurs LED
+-Se familiariser avec les notions suivantes :
+o Mesure de déformation
+o Utiliser l'API NI-DAQmx
+o Utiliser des sous-VIs
+o Combiner des tâches de contrôle et de mesure
+o Écrire dans un fichier quand un événement se produit </Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Strain Gage Exploration.lvproj</Run>
+		<Logo>Str.png</Logo>
+		<Preview>strain.png</Preview>
+		<SortPriority>200</SortPriority>
+</Instrument>

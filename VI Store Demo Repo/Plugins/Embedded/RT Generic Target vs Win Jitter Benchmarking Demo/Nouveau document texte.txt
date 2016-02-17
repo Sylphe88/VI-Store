@@ -1,0 +1,1 @@
+This demo utilizes any real-time hardware and LabVIEW Real-Time to demo the pronounced reduction of jitter running the same application on a real-time target in comparison to a general purpose Windows OS. 

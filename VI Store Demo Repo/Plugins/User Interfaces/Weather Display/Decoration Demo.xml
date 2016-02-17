@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Decoration Demo</Title>
+		<Description>Decoration are a key in UI design. You can use the one that can be found in the palettes, but you can also import decoration from the outside. For example, external pictures or powerpoint items can be used in a front panel.
+		You can also decide to customize controls found in the palette to create an harmonized suite of control that will suit your application graphics.</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Campus Weather Monitor.vi</Run>
+		<Logo>Deco.png</Logo>
+		<Preview>Deco FP.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="exe">
+		<Title>PuTTY</Title>
+		<Description>
+		Multi-usage tool for remote communication.
+		PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
+		</Description>
+		<Owner>PuTTY Devs</Owner>
+		<Version>0.65</Version>
+		<Run>putty.exe</Run>
+		<Logo>logo-putty.png</Logo>
+		<Preview>PuTTY_Screen.png</Preview>
+		<SortPriority>10</SortPriority>
+</Instrument>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>LabVIEW OOP</Title>
+		<Description>LabVIEW can be used to design application using Object-Oriented Programming (OOP). 
+		Contrary to a procedural approach, using objects and classes provide a highly readable, maintainable and scalable code and make your code even more robust.
+		This project demonstrates the basics of LVOOP, including inheritance, dynamic dispatch and encapsulation.</Description>
+		<Owner>Eric M</Owner>
+		<Version>1.0</Version>
+		<Run>Demo Stimulus OOP.lvproj</Run>
+		<Logo>LV_Object.png</Logo>
+		<Preview>OO.png</Preview>
+		<SortPriority>1000</SortPriority>
+</Instrument>

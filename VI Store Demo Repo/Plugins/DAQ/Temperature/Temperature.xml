@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Proj">
+		<Title>Temperature</Title>
+		<Description>Acquérir rapidement un ensemble de données de température à l'aide de l'Assistant DAQ
+Analyser ces données et générer un signal d'avertissement numérique dès que la température dépasse un niveau d'alerte modulable</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Temperature.lvproj</Run>
+		<Logo>Temp.png</Logo>
+		<Preview>Temperature.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>

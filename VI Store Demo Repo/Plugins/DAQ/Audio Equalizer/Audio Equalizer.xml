@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Audio Equalizer</Title>
+		<Description>-Acquérir en continu 40 000 échantillons de données par secondes à partir de la source audio connectée au module NI 9215 (ou toute entrée analogique similaire)
+-Ajouter une fonctionnalité d'enregistrement de données à la tâche DAQmx</Description>
+		<Owner>NI</Owner>
+		<Version>1.0</Version>
+		<Run>Audio Solution.vi</Run>
+		<Logo>aud.png</Logo>
+		<Preview>Audio.png</Preview>
+		<SortPriority>100</SortPriority>
+</Instrument>
