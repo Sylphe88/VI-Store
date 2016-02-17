@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Store>
+	<Category>
+		<Title>Random Applications</Title>
+		<Description>All-in-one category</Description>
+		<BaseDir>Plugins\Random</BaseDir>
+		<Icon Type="png">CategoryRsc\Random_64.png</Icon>
+		<SortPriority>100</SortPriority>
+	</Category>
+	<Category>
+		<Title>Media</Title>
+		<Description>Music Photos and Video related</Description>
+		<BaseDir>Plugins\Media</BaseDir>
+		<Icon Type="png">CategoryRsc\Media_64.png</Icon>
+		<SortPriority>10</SortPriority>
+	</Category>
+</Store>

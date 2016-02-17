@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>Janken</Title>
+		<Description>Play Rocks Paper Scissors!</Description>
+		<Owner>Eric Maussion</Owner>
+		<Version>1.0.0.1</Version>
+		<Run>Source\Janken.vi</Run>
+		<Logo>Janken_64.png</Logo>
+		<Preview>Janken_Pre.png</Preview>
+		<SortPriority>50</SortPriority>
+</Instrument>

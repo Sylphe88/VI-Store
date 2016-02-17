@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="exe">
+		<Title>Randomize</Title>
+		<Description>Tool that allows you to generate different random patterns.</Description>
+		<Owner>NI</Owner>
+		<Version>14.0.0.1</Version>
+		<Run>Randomize.exe</Run>
+		<Logo>Random_64.png</Logo>
+		<Preview>Random_Pre.png</Preview>
+		<SortPriority>5</SortPriority>
+</Instrument>

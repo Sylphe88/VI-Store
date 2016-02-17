@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="VI">
+		<Title>GUID Generator</Title>
+		<Description>Tool that allows you to generate a GUID.</Description>
+		<Owner>NI</Owner>
+		<Version>1.0.0.1</Version>
+		<Run>GUID Gen.vi</Run>
+		<Logo>Generator_64.png</Logo>
+		<Preview>Generator_Pre.png</Preview>
+		<SortPriority>10</SortPriority>
+</Instrument>

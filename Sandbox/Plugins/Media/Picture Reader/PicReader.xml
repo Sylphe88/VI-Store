@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Instrument Type="Lib">
+		<Title>Picture Reader</Title>
+		<Description>Open any picture in LabVIEW and reuse it.</Description>
+		<Owner>Conan O'Cordens</Owner>
+		<Version>1.1.0.5</Version>
+		<Run>Source\PicImport.vi</Run>
+		<Logo>PicReader_64.png</Logo>
+		<Preview>PicReader_Pre.png</Preview>
+		<SortPriority>50</SortPriority>
+</Instrument>
